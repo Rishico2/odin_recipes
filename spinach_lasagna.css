@@ -1,0 +1,18 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: pink;
+    font-family: 'Courier New', Courier, monospace, arial;
+    font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    background-color: hsl(350, 50%, 88%);
+}
+
+li{
+    padding: 2px;
+}

@@ -1,5 +1,8 @@
-a{
+*{
     font-family: 'Courier New', Courier, monospace;
+}
+a{
+    font-family: 'Courier New', Courier, monospace, arial;
     color: grey;
 }
 
